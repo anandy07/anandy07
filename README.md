@@ -1,4 +1,4 @@
-# Hi!! 👋, I'm Anand Yadav
+# Hi!  👋, I'm Anand Yadav
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-yadav-04b75324a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/anand_yyadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anand1032yadav@gmail.com) 
 
