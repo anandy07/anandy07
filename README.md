@@ -38,6 +38,11 @@
 </div>
 <br/>
 
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
 ### 🤝 Connect with me:
 
 <p align="center">
@@ -112,12 +117,6 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandy07&bg_color=1d1a27&color=0891b2&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-
----
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
 
 ---
 
