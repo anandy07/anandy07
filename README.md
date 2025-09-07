@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anand%20Yadav&fontSize=90&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
-
-
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=anandy07&icon=0&color=0" />
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=anandy07.anandy07">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=anandy07.anandy07" alt="visitor badge"/>
   </a>
 </div>
 
@@ -19,12 +17,15 @@
         
 ### 👨‍💻 About Me
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I+am+Anand+Yadav;AI+and+ML+Enthusiast;Learning+Deep+Learning+and+DSA" />
+</p>
+
 - 🔭 I’m currently working on **improving my Data Structures & Algorithms skills.**
 - 🌱 I’m currently learning **Deep Learning and exploring its applications.**
 - 👯 I’m looking to collaborate on **open-source AI/ML projects.**
 - 💬 Ask me about **Python, C++, Machine Learning, or anything tech-related!**
 - 📫 How to reach me: **anand1032yadav@gmail.com**
-- ⚡ Fun fact: **I believe the best code is written with a cup of coffee in hand.**
 
   </td>
       <td valign="top" width="50%">
@@ -51,8 +52,21 @@
   </a>
 </p>
 
----
+------
 
+### 🚀 My Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/anand__yadav/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/anand1032" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23965A38.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
+
+------
 ### 💻 Tech Stack & Tools
 
 <p align="center">
@@ -85,38 +99,30 @@
 
 ---
 
-### 🚀 My Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/anand__yadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>&nbsp;
-  <a href="https://www.codechef.com/users/anand1032" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23965A38.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
-
----
-
-### 🔥 My GitHub Stats & Activity
+### 🔥 GitHub Stats & Activity
 
 <div align="center">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=anandy07&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=anandy07&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandy07&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=anandy07&theme=dracula&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anandy07&theme=dracula&column=8" alt="GitHub Trophies"/>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandy07&bg_color=1d1a27&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandy07&bg_color=1d1a27&color=0891b2&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-<br>
+---
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
 ---
+
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=70&fontColor=fff&animation=twinkling" width="100%"/>
